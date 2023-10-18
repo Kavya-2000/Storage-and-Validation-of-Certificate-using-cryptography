@@ -15,6 +15,7 @@ A function that return the hash of the block contents.
 """
 block_string = json.dumps(self.__dict__, sort_keys=True)
 return sha256(block_string.encode()).hexdigest()
+
 5.3.2 Validate.py
 from hashlib import sha256
 import json
@@ -37,7 +38,6 @@ def create_genesis_block(self): #create genesis block
 genesis_block = Block(1, [], time.time(), "3")
 genesis_block.hash = genesis_block.compute_hash()
 self.chain.append(genesis_block)
-@property
 def last_block(self):
 return self.chain[-1]
 def add_block(self, block, proof): #adding data to block by computing new and previous hashes
@@ -81,6 +81,7 @@ return new_block.ind
 def save_object(self,obj, filename):
 with open(filename, 'wb') as output:
 pickle.dump(obj, output, pickle.HIGHEST_PROTOCOL)
+
 5.3.3 Main.py:
 from tkinter import messagebox
 from tkinter import *

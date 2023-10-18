@@ -17,10 +17,10 @@ Programming Language: Python 3.7          Hard Disk: 4 GB
 
 # IMPLEMENTATION
 Step1: 10th, Inter and B.tech certificates of particular student are uploaded.                    
-Step2: Hash code is generated for each certificate stored.
-Step3: Upload the Certificate that we want to verify
-Step4: Hash code of uploaded certificate is compared with the hash codes of already stored certificates.
-Step5:If hash codes matches - Uploaded certificate is validated as Original,
+Step2: Hash code is generated for each certificate stored.                                    
+Step3: Upload the Certificate that we want to verify.                          
+Step4: Hash code of uploaded certificate is compared with the hash codes of already stored certificates.                    
+Step5:If hash codes matches - Uploaded certificate is validated as Original,                                
       If hash codes doesn't matches - Upload certificate is validated as fake.
 
 # CONCLUSION & FUTURE SCOPE 

@@ -11,12 +11,12 @@ A hash is usually a hexadecimal string of several characters. Hashing is an algo
 
 # REQUIREMENTS
 SOFTWARE REQUIREMENTS    
-perating System: Windows 10                                                                            
-Programming Language: Python 3.7
-HARDWARE REQUIREMENTS
-Processor: Intel Core i3
-Hard Disk: 4 GB
-RAM: 512 MB
+operating System: Windows 10                                                                            
+Programming Language: Python 3.7                                                                      
+HARDWARE REQUIREMENTS                                                      
+Processor: Intel Core i3                                                       
+Hard Disk: 4 GB                                                                                              
+RAM: 512 MB                                                                             
 
 # IMPLEMENTATION
 Step1: 10th, Inter and B.tech certificates of particular student are uploaded.                    

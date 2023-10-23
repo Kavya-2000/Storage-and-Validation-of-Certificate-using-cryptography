@@ -10,8 +10,8 @@ We can able to validate any copy of the certificates we stored and prove it as o
 A hash is usually a hexadecimal string of several characters. Hashing is an algorithm that calculates a fixed-size bit string value from a file.
 
 # REQUIREMENTS
-SOFTWARE REQUIREMENTS                        HARDWARE REQUIREMENTS
-Operating System: Windows 10                 Processor: Intel Core i3
+SOFTWARE REQUIREMENTS                                                                                    HARDWARE REQUIREMENTS
+Operating System: Windows 10                                                                            Processor: Intel Core i3
 Programming Language: Python 3.7             Hard Disk: 4 GB
                                              RAM: 512 MB
 

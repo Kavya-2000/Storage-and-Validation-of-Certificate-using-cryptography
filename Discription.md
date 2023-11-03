@@ -1,7 +1,5 @@
 # Storage-and-Validation-of-Certificate-using-cryptography
 We are storing different certificates of a particular student by generating hash codes.
-STORAGE AND VALIDATION OF CERTIFICATES USING CRYPTOGRAPHY
-We are storing different certificates of a particular student by generating hash codes.
 
 # INTRODUCTION
 Cryptography is used to protect digital data. It is a division of computer science that focuses on transforming data into formats that cannot be recognized by unauthorized users.
